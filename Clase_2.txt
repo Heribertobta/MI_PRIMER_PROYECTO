@@ -1,1 +1,2 @@
 esto es una clase para la branch 2
+enmendar 2
